@@ -1,0 +1,11 @@
+<KTouchLecture>
+ <Title>texte approximatif</Title>
+ <FontSuggestions>Monospace</FontSuggestions>
+ <Levels>
+  <Level>
+   <NewCharacters>w x</NewCharacters>
+   <Line>texte approximatif texte approximatif texte approximatif</Line>
+   <Line>texte approximatif texte approximatif texte approximatif</Line>
+  </Level>
+ </Levels>
+</KTouchLecture>
